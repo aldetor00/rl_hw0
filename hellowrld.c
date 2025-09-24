@@ -1,6 +1,6 @@
 #include<stdlib.h>
 #include<stdio.h>
 void main(){
-printf("hello wordl "\n);
+printf("hello wordl branch "\n);
 
 }
